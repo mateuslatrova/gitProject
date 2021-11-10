@@ -1,0 +1,8 @@
+/*.txt
+/.vscode
+
+/index.html
+/style.css
+
+# Auto generated files
+auto-gen-files/*.txt
