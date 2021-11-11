@@ -1,3 +1,5 @@
 const a = 10;
-const myFunc = () => {};
+const b = () => {
+    console.log('Hi there');
+};
 
